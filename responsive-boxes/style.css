@@ -24,3 +24,15 @@ body {
 /* ==========================
 	Write your solution here!
    ========================== */
+
+   .box-red {
+     width: 100%;
+   }
+
+   .box-green {
+     width: 50%;
+   }
+
+   .box-blue {
+     width: 50%;
+   }
