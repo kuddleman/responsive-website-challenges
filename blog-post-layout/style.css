@@ -34,3 +34,21 @@ body {
 /* ==========================
 	Write your solution here!
    ========================== */
+
+   .posts {
+     display: flex;
+     flex-flow: column wrap;
+     align-items: center;
+     margin: 1em auto;
+   }
+
+   .post {
+     width: 90%;
+     /* border: 1px solid pink; */
+     margin: 1em;
+     border-radius: 2em;
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+     align-items: center;
+   }
