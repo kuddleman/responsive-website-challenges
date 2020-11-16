@@ -35,3 +35,17 @@
    font-size: 1.25rem;
    margin: 0.75em;
  }
+
+ .link-selected {
+   text-decoration: underline;
+ }
+
+ .links {
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   width: 60%;
+   margin: 1em;
+   justify-content: space-between;
+   align-items: center;
+ }
